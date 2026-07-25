@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0FFF4&height=120&section=header" alt="header"/> 
 
-<!--
-**shintaro-szk/shintaro-szk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F0FFF4&width=435&lines=Hello%2C+it's+Shintaro A.+Suzuki;BSIT+Freshman" alt="BSIT Freshman"/>
+</a>
 
-Here are some ideas to get you started:
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,css,dotnet,eclipse,git,github,gmail,html,java,js,nodejs,notion,npm,ps,pycharm,py,react,ts,vscode,windows)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Studying
+[![Learning](https://skillicons.dev/icons?i=cpp,linux)](https://skillicons.dev)
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/shintaro-szk/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:shintaroasuzuki@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="37" height="37"/>
+    </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0FFF4&height=120&section=footer" alt="footer"/>
